@@ -1,3 +1,5 @@
+![Chef Moe | The AI Chamber](Chef%20Moe%20Cleveland%20Brand%20Skyline.png)
+
 # CHEF MOE
 ### FOUNDER • AI BUILDER • ENTREPRENEUR • CREATOR
 
