@@ -63,4 +63,22 @@ A private chef and catering business focused on elevated dining experiences, cre
 
 > Build businesses that combine human creativity with intelligent technology — and create systems that can grow beyond one person's time.
 
-**CHEF MOE | THE AI CHAMBER**
+
+## 🚀 FEATURED PROJECTS
+
+### 🍽️ The Flavor Chamber
+A culinary media platform featuring 100+ free recipes, searchable categories, and digital cooking content.
+
+🌐 [Explore The Flavor Chamber](https://www.theflavorchamber.com)
+
+### 🤖 The AI Chamber
+Building an AI-powered business ecosystem focused on autonomous agents, workflow automation, AI education, and digital products.
+
+*Selected AI projects are currently in private development.*
+
+### 👨🏾‍🍳 The Gourmet Chamber LLC
+Private chef services, elevated dining experiences, and curated catering experiences.
+
+---
+
+**Building businesses. Creating systems. Turning ideas into reality.**
