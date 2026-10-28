@@ -82,3 +82,16 @@ Private chef services, elevated dining experiences, and curated catering experie
 ---
 
 **Building businesses. Creating systems. Turning ideas into reality.**
+
+## 🛠️ TECHNOLOGY & AI TOOLS
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![Grok](https://img.shields.io/badge/Grok-111111?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
+![CapCut](https://img.shields.io/badge/CapCut-111111?style=for-the-badge)
